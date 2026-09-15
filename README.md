@@ -10,15 +10,11 @@
 ### Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,postgres&theme=dark"
-    alt="React, Next.js, TypeScript, JavaScript, Node.js, HTML, CSS, Tailwind, PostgreSQL"
-  >
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,nestjs,html,css,tailwind&theme=dark">
   <br>
-  <img
-    src="https://skillicons.dev/icons?i=py,gcp,docker,git,github,vscode,figma,postman&theme=dark"
-    alt="Python, Google Cloud, Docker, Git, GitHub, VS Code, Figma, Postman"
-  >
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,prisma,graphql,elasticsearch,supabase,firebase&theme=dark">
+  <br>
+  <img src="https://skillicons.dev/icons?i=py,gcp,azure,docker,bash,linux,githubactions,git,github,vercel&theme=dark">
 </p>
 
 <p align="center">
