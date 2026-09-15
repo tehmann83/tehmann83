@@ -20,8 +20,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI_AGENTS-FF4D9D?style=for-the-badge&labelColor=080B1D">
   <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge&labelColor=080B1D">
-  <img src="https://img.shields.io/badge/RAG-7C6DF2?style=for-the-badge&labelColor=080B1D">
   <img src="https://img.shields.io/badge/EVALS-FFC857?style=for-the-badge&labelColor=080B1D">
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge&labelColor=080B1D">
+  <img src="https://img.shields.io/badge/OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white&labelColor=080B1D">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=080B1D">
 </p>
 
 <p align="center">
