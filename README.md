@@ -11,15 +11,21 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,gcp,git,github,vscode&theme=dark"
-    alt="React, Next.js, TypeScript, JavaScript, Node.js, Google Cloud, Git, GitHub, VS Code"
+    src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,html,css,tailwind,postgres&theme=dark"
+    alt="React, Next.js, TypeScript, JavaScript, Node.js, HTML, CSS, Tailwind, PostgreSQL"
+  >
+  <br>
+  <img
+    src="https://skillicons.dev/icons?i=py,gcp,docker,git,github,vscode,figma,postman&theme=dark"
+    alt="Python, Google Cloud, Docker, Git, GitHub, VS Code, Figma, Postman"
   >
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/AI_AGENTS-FF4D9D?style=for-the-badge&labelColor=080B1D">
   <img src="https://img.shields.io/badge/MCP-22D3EE?style=for-the-badge&labelColor=080B1D">
-  <img src="https://img.shields.io/badge/AI_INTEGRATION-7C6DF2?style=for-the-badge&labelColor=080B1D">
+  <img src="https://img.shields.io/badge/RAG-7C6DF2?style=for-the-badge&labelColor=080B1D">
+  <img src="https://img.shields.io/badge/EVALS-FFC857?style=for-the-badge&labelColor=080B1D">
 </p>
 
 <p align="center">
