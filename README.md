@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-animated.svg"
+  <img src="./assets/banner-anim.svg"
        width="100%"
        alt="Thomas Ehmann — AI-Native Product Engineer">
 </p>
