@@ -30,6 +30,16 @@
   <img src="./assets/divider.svg" width="100%" alt="">
 </p>
 
+### Say hi
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/tehmann">
+    <img src="https://img.shields.io/badge/LINKEDIN-080B1D?style=for-the-badge&logo=linkedin&logoColor=22D3EE">
+  </a>
+  <a href="mailto:ehmannth@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-080B1D?style=for-the-badge&logo=gmail&logoColor=FF4D9D">
+  </a>
+</p>
 <!--
 **tehmann83/tehmann83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
