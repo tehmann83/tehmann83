@@ -184,10 +184,12 @@
         <rect x="2078" y="348" width="24" height="6" rx="2" fill="#ff62b6"/>
       </g>
 
-      <!-- Cursor pulse over the baked-in underscore after the name -->
+      <!-- Cover the baked-in static underscore and replace it with a blinking cursor -->
+      <rect x="1400" y="205" width="58" height="52" rx="2"
+            fill="#15194a" opacity=".96"/>
       <rect class="cursor"
-            x="1407" y="244" width="48" height="8" rx="1"
-            fill="#24eaff" opacity=".75"
+            x="1410" y="222" width="42" height="10" rx="1"
+            fill="#24eaff" opacity=".92"
             filter="url(#cyanGlow)"/>
 
       <!-- Water reflections, deliberately subtle -->
