@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./assets/banner.png"
+       width="100%"
+       alt="Thomas Ehmann — AI-Native Product Engineer">
+</p>
+
 ## Hi there 👋
 
 <!--
